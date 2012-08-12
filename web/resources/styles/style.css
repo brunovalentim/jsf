@@ -1,0 +1,39 @@
+/* 
+    Document   : style
+    Created on : 11/08/2012, 20:42:52
+    Author     : valentims
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body {
+    font-family : arial , helvetica , sans-serif ;
+    font-size : 14 px ;
+}
+h1 {
+    color : silver;
+    font-size : 18 px ;
+}
+.header{    
+    width: 100%;
+    height: 100px;    
+}
+#headerImage{
+    float: left;        
+}
+#headerTitle{
+    float: left;        
+}
+#headerLogin{
+    float: right; 
+    color : silver;
+}
+hr{
+    border-color:silver;
+}
+
+
+
